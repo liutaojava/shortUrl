@@ -1,0 +1,11 @@
+/target/
+**/target/
+.settings
+/bin/
+.classpath
+.project
+Debug
+Release
+.vs
+**/*.log
+**/*.log.*
