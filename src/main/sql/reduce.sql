@@ -62,7 +62,6 @@ CREATE TABLE `email_queue` (
 BEGIN;
 INSERT INTO `email_queue` VALUES (1, '6afdad63de0bba58b706f622c5ed97b8', 'Reduce 验证邮件', '您的验证码是：3460', 'test@qq.com', 1, '2020-03-09 16:50:12', 1583743812326, '2020-03-09 16:50:12');
 INSERT INTO `email_queue` VALUES (2, 'd6a0932de9458e542f937270462c9460', 'Reduce 验证邮件', '您的验证码是：7412', 'test11@qq.com', 1, '2020-03-09 17:02:18', 1583744537602, '2020-03-09 17:02:18');
-INSERT INTO `email_queue` VALUES (10, '9142f4b30db717165119b6f8a022f2a7', 'Reduce 验证邮件', '您的验证码是：4166', '448609605@qq.com', 1, '2020-03-10 11:21:03', 1583810463387, '2020-03-10 11:21:03');
 COMMIT;
 
 -- ----------------------------

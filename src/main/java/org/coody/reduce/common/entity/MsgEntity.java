@@ -8,9 +8,6 @@ import org.coody.reduce.common.enm.ResultCode;
 
 /**
  * @remark 消息机制容器。
- * @author Coody
- * @email 644556636@qq.com
- * @blog 54sb.org
  */
 @SuppressWarnings("serial")
 public class MsgEntity extends BaseModel {
