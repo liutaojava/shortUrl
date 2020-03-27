@@ -1,7 +1,5 @@
 # reduce短网址平台
 
-测试站地址：http://dev.icoody.cn/
-
 #### 技术说明
 
     本项目为Coody Framework+Minicat首秀，短网址服务平台。部署在服务器，使用短域名解析即可提供服务。
@@ -124,7 +122,7 @@ CREATE TABLE `email_queue` (
 
 ### 版权说明：
 
-    作者：Coody
+    作者：lt
     
     版权：©2014-2020 Test404 All right reserved. 版权所有
 
